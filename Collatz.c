@@ -5,7 +5,7 @@ int main(void)
 {
     time_t start_time, end_time;
     long int max;
-    int a,b,i,j,T,number,until,count,div;
+    int a,b,i,j,T,number,until,count,div; // 
     
     max = 10000000000000000;
     number = 1000000000;
